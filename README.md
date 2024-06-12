@@ -17,11 +17,11 @@
 
  </div>
  
-<div align="center"> 
-  <a href="mailto:satyam.tambakhe@gmail.com">
+div align="center"> 
+  <a href="mailto:satyam.tambakhe@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/satyam-tambakhe-3921a422b/">
+  <a href="https://www.linkedin.com/in/satyam-tambakhe-3921a422b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://your-portfolio-link.com" target="_blank">
